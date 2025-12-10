@@ -1,7 +1,3 @@
-"""
-Réviser les :
-    -liste en compréhension
-"""
 # #niv 1
 # a, b, c = 1, "France", 36.2
 # print(a, b, c)
@@ -58,7 +54,6 @@ Réviser les :
 #     if j%2:
 #         print(j)
 
-"""LISTE EN COMPREHENSION"""
 # # niv 10
 # liste = [i for i in range(1, 11)]
 # print(liste)
@@ -95,7 +90,6 @@ Réviser les :
 # c = "".join(c)
 # print(c)
 
-"""LISTE + DICTIONNAIRE"""
 # #niv 17                                   
 # L1 = [9,8,7,14,3,2,'a','p','bonjour','b']
 # L2 = ['b',1,9.2,6,3,9,'p']
@@ -122,7 +116,6 @@ Réviser les :
 # somme = sum(di.values())
 # print(somme)
 
-"""'.format"""
 # # niv 22
 # a = 187.632587
 # a = float("{:.2f}".format(a))
@@ -139,7 +132,6 @@ Réviser les :
 # for i in range(11):
 #     print("8x", i, "=", i*8)
 
-"""IMPORT OS"""
 # # niv 25
 # import os
 # print(os.getcwd())
@@ -180,7 +172,7 @@ Réviser les :
 # liste = [i for i in range(5, 21)]
 # for loop in range(8):
 #     print(liste)
-"""LISTE EN COMPREHENSION"""
+
 # # niv 32                              or                  L = [3,6,9,12,15,18,21,24]       
 # L = [3,6,9,12,15,18,21,24]            or                  L1 = [l/3 for l in L]
 # L1 = []                               or                  print(L1)

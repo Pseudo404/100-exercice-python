@@ -1,15 +1,3 @@
-"""
-REVISER LES :
-    - niv 75 (revoir le systeme de recursivité)
-                            ^^^^^^^^^^^^^^^^^^^^^^^  recusivité mutuelle ou croisé
-    - niv 78
-    - niv 82
-    - niv 85
-    - niv 87
-    - niv 88
-    - niv 89
-"""
-
 # # niv 75
 # def nbrPaire(N):
 #     if N == 1:

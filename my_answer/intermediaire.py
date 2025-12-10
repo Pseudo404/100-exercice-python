@@ -1,16 +1,3 @@
-"""
-REVISER LES :
-    - import os
-    - niv 49
-    - niv 54
-    - niv 60
-    - niv 65
-    - niv 67
-    - niv 72
-    - niv 73
-    - niv 74
-"""
-
 # # niv 34
 # def f(a, b, x):
 #     result = a*(x**3)+2*a*(x**2)+b
@@ -139,7 +126,6 @@ REVISER LES :
 # print(concatenateListe([0,9,8], [2,6,9], [True, False, 'abcde']))
 # print(concatenateListe([[38,-1], -3, 9], ["xz", "France"], []))
 
-'''A REVOIR'''
 # # niv 49
 # def nbrValeurDict(d):
 #     cle = list(d.keys())
@@ -188,7 +174,6 @@ REVISER LES :
 # print(presenceVoyelle("ne t'inquiete pas !"))
 # print(presenceVoyelle("vcwx"))
 
-"""A REVOIR"""
 # # niv 54
 # def supprEspace(ch):
 #     ch = ch.split(" ")
@@ -348,7 +333,6 @@ REVISER LES :
 # liste_utilisateur = list(liste_utilisateur.split(' '))
 # print(liste_utilisateur)
 
-'''TOUT BON SEULMENT 2ieme FACON POSSIBLE'''
 # # niv 69
 # def nbrJourHeure(dateDebut, dateFin):
 #     dateDebut = list(dateDebut.split("/"))
